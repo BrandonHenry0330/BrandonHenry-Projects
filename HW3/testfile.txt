@@ -1,0 +1,8 @@
+CptS 355 Assignment 3 - Python Warmup
+
+
+     This is a text test file for CptS 355 - Assignment 3 - Python Warmup
+
+With some repeated text for CptS 355 - Assignment 3 - Python Warmup
+
+ . dot
